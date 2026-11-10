@@ -19,7 +19,7 @@ export default function Hero() {
   return (
     <header className="relative">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6">
-        <span className="font-mono text-sm text-lime">iván.dev</span>
+        <span className="font-mono text-sm text-lime">desarrollador Web Full-Stack</span>
         <div className="hidden gap-7 text-sm text-muted sm:flex">
           <a href="#proyectos" className="hover:text-cream">Proyectos</a>
           <a href="#stack" className="hover:text-cream">Tecnologías</a>

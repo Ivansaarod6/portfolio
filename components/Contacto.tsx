@@ -55,7 +55,7 @@ export default function Contacto() {
           </a>
         </div>
 
-        <p className="mt-24 text-xs text-muted">© {new Date().getFullYear()} {perfil.nombreCompleto}</p>
+        
       </div>
     </footer>
   );
